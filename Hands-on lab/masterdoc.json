@@ -9,37 +9,32 @@
   
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-ML-Ops/master/Hands-on%20lab/Exercise%201%3A%20Creating%20and%20evaluating%20compliance%20classification%20models.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Migrating-SQL-databases-to-Azure/master/Hands-on%20lab/01.md",
           "Order": 2
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-ML-Ops/master/Hands-on%20lab/Exercise%202%3A%20Registering%20the%20model.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Migrating-SQL-databases-to-Azure/master/Hands-on%20lab/02.md",
           "Order": 3
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-ML-Ops/master/Hands-on%20lab/Exercise%203%3A%20Setup%20New%20Project%20in%20Azure%20DevOps.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Migrating-SQL-databases-to-Azure/master/Hands-on%20lab/03.md",
           "Order": 4
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-ML-Ops/master/Hands-on%20lab/Exercise%204%3A%20Setup%20and%20Run%20the%20Build%20Pipeline.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Migrating-SQL-databases-to-Azure/master/Hands-on%20lab/04.md",
           "Order": 5
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-ML-Ops/master/Hands-on%20lab/Exercise%205%3A%20Setup%20the%20Release%20Pipeline.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Migrating-SQL-databases-to-Azure/master/Hands-on%20lab/05.md",
           "Order": 6
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-ML-Ops/master/Hands-on%20lab/Exercise%206%3A%20Test%20Build%20and%20Release%20Pipelines.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Migrating-SQL-databases-to-Azure/master/Hands-on%20lab/06.md",
           "Order": 7
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-ML-Ops/master/Hands-on%20lab/Exercise%207%3A%20Testing%20the%20deployed%20solution.md",
+          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Migrating-SQL-databases-to-Azure/master/Hands-on%20lab/07.md",
           "Order": 8
-        },
-       
-        {
-          "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-ML-Ops/master/Hands-on%20lab/Exercise%208%3A%20Examining%20deployed%20model%20performance.md",
-          "Order": 9
         }
       ]
     }
