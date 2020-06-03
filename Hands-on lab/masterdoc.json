@@ -5,8 +5,7 @@
       "Files": [
         {
           "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Migrating-SQL-databases-to-Azure/master/Hands-on%20lab/lab-overview.md",
-          "Order": 1
-  
+          "Order": 1  
         },
         {
           "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/MCW-Migrating-SQL-databases-to-Azure/master/Hands-on%20lab/01.md",
@@ -38,4 +37,4 @@
         }
       ]
     }
-  ] 
+  ]
